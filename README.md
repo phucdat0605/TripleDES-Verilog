@@ -68,6 +68,7 @@ Applying Pipelining **isolated the Critical Path** between the heavy sub-cores, 
 │   ├── tdes_encrypt_tb.v
 │   ├── tb_tripleDES.v      
 └── README.md
-
-## COVERAGE TEST
+```
+---
+# COVERAGE TEST
 ![Coverage quetasim test](coverage.png)
