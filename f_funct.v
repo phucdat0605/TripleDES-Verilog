@@ -1,0 +1,12 @@
+module f_funct(
+	input [31:0] R, 
+	input [47:0] K, 
+	output [31:0] F
+);
+   wire [47:0] e;
+    e_expand e1(.in32(R), .out48(e));
+    wire [47:0] x = e ^ K;
+    wire [31:0] s;
+    sfunct s1(.in48(x), .out32(s));
+    p_permutation p1(.in32(s), .out32(F));
+endmodule

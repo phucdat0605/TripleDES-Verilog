@@ -1,0 +1,24 @@
+module IP (
+    input  [63:0] plaintext,
+    output [63:0] ip_out
+);
+    assign ip_out = {
+        plaintext[64-58], plaintext[64-50], plaintext[64-42], plaintext[64-34], 
+        plaintext[64-26], plaintext[64-18], plaintext[64-10], plaintext[64-2],
+        plaintext[64-60], plaintext[64-52], plaintext[64-44], plaintext[64-36], 
+        plaintext[64-28], plaintext[64-20], plaintext[64-12], plaintext[64-4],
+        plaintext[64-62], plaintext[64-54], plaintext[64-46], plaintext[64-38], 
+        plaintext[64-30], plaintext[64-22], plaintext[64-14], plaintext[64-6],
+        plaintext[64-64], plaintext[64-56], plaintext[64-48], plaintext[64-40], 
+        plaintext[64-32], plaintext[64-24], plaintext[64-16], plaintext[64-8],
+        plaintext[64-57], plaintext[64-49], plaintext[64-41], plaintext[64-33], 
+        plaintext[64-25], plaintext[64-17], plaintext[64-9],  plaintext[64-1],
+        plaintext[64-59], plaintext[64-51], plaintext[64-43], plaintext[64-35], 
+        plaintext[64-27], plaintext[64-19], plaintext[64-11], plaintext[64-3],
+        plaintext[64-61], plaintext[64-53], plaintext[64-45], plaintext[64-37], 
+        plaintext[64-29], plaintext[64-21], plaintext[64-13], plaintext[64-5],
+        plaintext[64-63], plaintext[64-55], plaintext[64-47], plaintext[64-39], 
+        plaintext[64-31], plaintext[64-23], plaintext[64-15], plaintext[64-7]
+    };
+
+endmodule

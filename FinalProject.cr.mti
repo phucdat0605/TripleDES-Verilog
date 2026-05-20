@@ -1,0 +1,148 @@
+{D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tripleDES
+
+Top level modules:
+	tripleDES
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc1.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pc1
+
+Top level modules:
+	pc1
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/f_funct.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/f_funct.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module f_funct
+
+Top level modules:
+	f_funct
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc2.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pc2
+
+Top level modules:
+	pc2
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module des_decrypt
+
+Top level modules:
+	des_decrypt
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/decrypt_tb.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/decrypt_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decrypt_tb
+
+Top level modules:
+	decrypt_tb
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module des_encrypt
+
+Top level modules:
+	des_encrypt
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES_tb.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tripleDES_tb
+
+Top level modules:
+	tripleDES_tb
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES_pipeline.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES_pipeline.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tripleDES_pipeline
+
+Top level modules:
+	tripleDES_pipeline
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IP
+
+Top level modules:
+	IP
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_decrypt.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_decrypt.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tdes_decrypt
+
+Top level modules:
+	tdes_decrypt
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/encrypt_tb.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/encrypt_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module encrypt_tb
+
+Top level modules:
+	encrypt_tb
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_encrypt.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_encrypt.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tdes_encrypt
+
+Top level modules:
+	tdes_encrypt
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/e_expand.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/e_expand.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module e_expand
+
+Top level modules:
+	e_expand
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_decrypt_tb.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_decrypt_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tdes_decrypt_tb
+
+Top level modules:
+	tdes_decrypt_tb
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_decrypt_pipeline.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_decrypt_pipeline.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tdes_decrypt_pipeline
+
+Top level modules:
+	tdes_decrypt_pipeline
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/p_permutation.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/p_permutation.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module p_permutation
+
+Top level modules:
+	p_permutation
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_encrypt_tb.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_encrypt_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tdes_encrypt_tb
+
+Top level modules:
+	tdes_encrypt_tb
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_encrypt_pipeline.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_encrypt_pipeline.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tdes_encrypt_pipeline
+
+Top level modules:
+	tdes_encrypt_pipeline
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP_1.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP_1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IP_1
+
+Top level modules:
+	IP_1
+
+} {} {}} {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/sfunct.v} {1 {vlog -work work {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/sfunct.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sfunct
+
+Top level modules:
+	sfunct
+
+} {} {}}

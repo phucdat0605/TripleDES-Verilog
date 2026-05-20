@@ -1,0 +1,289 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Ki 2 nam 3\HE_THONG_SO_HDL\THUCHANH-DAT\DoAnHDL\TripleDES\simulation\modelsim
+vdes_decrypt
+INYI0VaT2[eXalMLI<J=093
+VzVT@Kfa_SCGn<:lXgJk_63
+Z1 dD:\Ki 2 nam 3\HE_THONG_SO_HDL\THUCHANH-DAT\DoAnHDL\TripleDES\simulation\modelsim
+w1778814146
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work {+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES} -O0
+!i10b 1
+!s100 ME0Jl?QU:hDKQTEih:l`H0
+!s85 0
+!s108 1779112592.758000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v|
+!s101 -O0
+vdes_encrypt
+IUdITb?=58@YkGNIWz^7S03
+VF]S]=4PjS2g4dk94VM29`3
+R1
+w1778814084
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 kk[nn]VH;cQ;T7LGn2]`93
+!s85 0
+!s108 1779112592.709000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v|
+!s101 -O0
+ve_expand
+I>1<leSLo48f7O0VB0]FP13
+V1UBn:c9BSV]dY<JFG3mel0
+R1
+w1778778436
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/e_expand.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/e_expand.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 A4_iAG?UNeR`=K6<La:I@0
+!s85 0
+!s108 1779112592.467000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/e_expand.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/e_expand.v|
+!s101 -O0
+vf_funct
+I4F4=l[1JI2FAmjEIAKTU72
+Vh<2>[NW;ZNPF]8FzaRZ@11
+R1
+w1778813722
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/f_funct.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/f_funct.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3h<iUk7gSn`:nVeUa=6?_0
+!s85 0
+!s108 1779112592.614000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/f_funct.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/f_funct.v|
+!s101 -O0
+vIP
+I;o]6dRmFQH?=>R5W:YD?31
+V^WdGdMYoA7[i0zgD=IoJ71
+R1
+w1778779640
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP.v
+L0 1
+R2
+r1
+31
+R3
+n@i@p
+R4
+!i10b 1
+!s100 O;gLG9gH2fEIPHX76l5832
+!s85 0
+!s108 1779112592.333000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP.v|
+!s101 -O0
+vIP_1
+IEK`djeBg?GH0FM;ocQQ5c1
+Vl:ZGPSfc7[eTE1`^T1XA=3
+R1
+w1778779641
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP_1.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP_1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@i@p_1
+!i10b 1
+!s100 IG@g[QCZogfg47``M>6VM3
+!s85 0
+!s108 1779112592.662000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP_1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP_1.v|
+!s101 -O0
+vp_permutation
+IVc2_Z0Y6BHcNBh3dW_nDF1
+VIJlKf5Id]:kXkODhzI?J?3
+R1
+w1778779061
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/p_permutation.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/p_permutation.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 X;Wf9QaLjzUNk:R_1lTd?3
+!s85 0
+!s108 1779112592.567000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/p_permutation.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/p_permutation.v|
+!s101 -O0
+vpc1
+IIfLeNogPm2AHh6lOjP7Mg2
+VnKEmOJz7YKi?F2EPEBzF10
+R1
+w1778778302
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc1.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 C4NTFiTK:bNocA]Y?P]gB2
+!s85 0
+!s108 1779112592.379000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc1.v|
+!s101 -O0
+vpc2
+IV4AUg2i?IbTiY2jXKZ2Q=3
+V64l9:o3m543[k=@;eE3l=0
+R1
+w1778778348
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc2.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc2.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 CoN6l52jRPzZfN@5g=hzM1
+!s85 0
+!s108 1779112592.422000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc2.v|
+!s101 -O0
+vsfunct
+IOk5NF87^?7KQ4cGUDWSD]0
+VFYFoTLF9kcicL2SY3;S8f2
+R1
+w1778778592
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/sfunct.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/sfunct.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 LgiA_bCEfSF3EW^M[o6cn1
+!s85 0
+!s108 1779112592.512000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/sfunct.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/sfunct.v|
+!s101 -O0
+vtdes_decrypt
+IlPKYNcX?e:K[WYHY6JmGb1
+VT[8>J682]UYG24c<zD]6e0
+R1
+w1778816668
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_decrypt.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_decrypt.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 fS]RQ:b?@TKXQ?iFm;9Le2
+!s85 0
+!s108 1779112592.858000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_decrypt.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_decrypt.v|
+!s101 -O0
+vtdes_encrypt
+Id^=?LWF1g4G38C7cDTWlz2
+VP1n]80N`9aF_je]kcVW<d0
+R1
+w1779007243
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_encrypt.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_encrypt.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 NRnLWnlPUoM9ZJFAYNE@62
+!s85 0
+!s108 1779112592.812000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_encrypt.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_encrypt.v|
+!s101 -O0
+vtripleDES
+I<keCc:oAQ5caToS6FWC781
+VVg0IM_cE4R:[_]52FGPIJ1
+R1
+w1778817916
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES.v
+L0 1
+R2
+r1
+31
+R3
+R4
+ntriple@d@e@s
+!i10b 1
+!s100 HB@Ul@Bb:O?EMPgcgn2Ma0
+!s85 0
+!s108 1779112592.903000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES.v|
+!s101 -O0
+vtripleDES_tb
+!i10b 1
+!s100 cl20jzOhN;P0bYTE@]f7T3
+I:?eYQR@<HXd4nV>E6kK>:1
+VgYT7RTO^`9>[W@zfkfn`32
+R1
+w1778818246
+8D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES_tb.v
+FD:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1779112592.948000
+!s107 D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES|D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES_tb.v|
+!s101 -O0
+R3
+R4
+ntriple@d@e@s_tb

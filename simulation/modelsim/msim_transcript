@@ -1,0 +1,160 @@
+# Reading D:/intelFPGA-ModelSim/modelsim_ase/tcl/vsim/pref.tcl 
+# do tripleDES_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying D:\intelFPGA-ModelSim\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:\intelFPGA-ModelSim\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module IP
+# 
+# Top level modules:
+# 	IP
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module pc1
+# 
+# Top level modules:
+# 	pc1
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/pc2.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module pc2
+# 
+# Top level modules:
+# 	pc2
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/e_expand.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module e_expand
+# 
+# Top level modules:
+# 	e_expand
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/sfunct.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sfunct
+# 
+# Top level modules:
+# 	sfunct
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/p_permutation.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module p_permutation
+# 
+# Top level modules:
+# 	p_permutation
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/f_funct.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module f_funct
+# 
+# Top level modules:
+# 	f_funct
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/IP_1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module IP_1
+# 
+# Top level modules:
+# 	IP_1
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module des_encrypt
+# 
+# Top level modules:
+# 	des_encrypt
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module des_decrypt
+# 
+# Top level modules:
+# 	des_decrypt
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_encrypt.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module tdes_encrypt
+# 
+# Top level modules:
+# 	tdes_encrypt
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tdes_decrypt.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module tdes_decrypt
+# 
+# Top level modules:
+# 	tdes_decrypt
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module tripleDES
+# 
+# Top level modules:
+# 	tripleDES
+# 
+# vlog -vlog01compat -work work +incdir+D:/Ki\ 2\ nam\ 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES {D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES_tb.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module tripleDES_tb
+# 
+# Top level modules:
+# 	tripleDES_tb
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs="+acc"  tripleDES_tb
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps tripleDES_tb 
+# Loading work.tripleDES_tb
+# Loading work.tripleDES
+# Loading work.tdes_encrypt
+# Loading work.des_encrypt
+# Loading work.IP
+# Loading work.pc1
+# Loading work.pc2
+# Loading work.f_funct
+# Loading work.e_expand
+# Loading work.sfunct
+# Loading work.p_permutation
+# Loading work.IP_1
+# Loading work.des_decrypt
+# Loading work.tdes_decrypt
+# ** Warning: (vsim-3017) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v(17): [TFMPC] - Too few port connections. Expected 4, found 3.
+# 
+#         Region: /tripleDES_tb/uut/encrypt1/des0/u_pc1
+# ** Warning: (vsim-3722) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v(17): [TFMPC] - Missing connection for port 'k56'.
+# 
+# ** Warning: (vsim-3017) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v(17): [TFMPC] - Too few port connections. Expected 4, found 3.
+# 
+#         Region: /tripleDES_tb/uut/encrypt1/des1/u_pc1
+# ** Warning: (vsim-3722) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v(17): [TFMPC] - Missing connection for port 'k56'.
+# 
+# ** Warning: (vsim-3017) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v(17): [TFMPC] - Too few port connections. Expected 4, found 3.
+# 
+#         Region: /tripleDES_tb/uut/encrypt1/des2/u_pc1
+# ** Warning: (vsim-3722) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v(17): [TFMPC] - Missing connection for port 'k56'.
+# 
+# ** Warning: (vsim-3017) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v(17): [TFMPC] - Too few port connections. Expected 4, found 3.
+# 
+#         Region: /tripleDES_tb/uut/decrypt1/stage1/u_pc1
+# ** Warning: (vsim-3722) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v(17): [TFMPC] - Missing connection for port 'k56'.
+# 
+# ** Warning: (vsim-3017) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v(17): [TFMPC] - Too few port connections. Expected 4, found 3.
+# 
+#         Region: /tripleDES_tb/uut/decrypt1/stage2/u_pc1
+# ** Warning: (vsim-3722) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_encrypt.v(17): [TFMPC] - Missing connection for port 'k56'.
+# 
+# ** Warning: (vsim-3017) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v(17): [TFMPC] - Too few port connections. Expected 4, found 3.
+# 
+#         Region: /tripleDES_tb/uut/decrypt1/stage3/u_pc1
+# ** Warning: (vsim-3722) D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/des_decrypt.v(17): [TFMPC] - Missing connection for port 'k56'.
+# 
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Plaintext          : 0123456789abcdef
+# Ciphertext         : 69947f37ad55c264
+# Plaintext khoi phuc: 0123456789abcdef
+# --------------------------------------------
+# Self_checking: Du lieu trung khop
+# --------------------------------------------
+# Break in Module tripleDES_tb at D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES_tb.v line 69
+# Simulation Breakpoint: Break in Module tripleDES_tb at D:/Ki 2 nam 3/HE_THONG_SO_HDL/THUCHANH-DAT/DoAnHDL/TripleDES/tripleDES_tb.v line 69
+# MACRO ./tripleDES_run_msim_rtl_verilog.do PAUSED at line 29
