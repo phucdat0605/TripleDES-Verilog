@@ -37,7 +37,7 @@ The security of this accelerator heavily relies on the 8 internal standard S-Box
 
 The design was synthesized using **Intel Quartus Timing Analyzer** (Slow Model Corner).
 
-![Fmax](fmax.png)
+![Fmax](Imagine/fmax.png)
 | Module | Architecture Mode | Max Frequency ($F_{max}$) | Throughput Efficiency |
 | :--- | :--- | :--- | :--- |
 | `tdes_encrypt` | Sequential (FSM) | **117.25 MHz** | 1 block per 51 cycles |
@@ -71,4 +71,4 @@ Applying Pipelining **isolated the Critical Path** between the heavy sub-cores, 
 ```
 ---
 # COVERAGE TEST
-![Coverage quetasim test](coverage.png)
+![Coverage quetasim test](Imagine/coverage.png)
